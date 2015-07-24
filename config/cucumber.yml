@@ -1,0 +1,2 @@
+default: --format html --out results/report.html --t @15A
+safari: --format pretty BROWSER=safari
